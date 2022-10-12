@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## This is my new account, I lost 2FA verification method of my old account, for older projects please visit (THIS LINK)[https://github.com/AungS8430-zz]. For support, please dm me on (Discord)[https://discordapp.com/users/877190769159589988] or join my (Discord Server)[https://dsc.gg/independence]
 My name is Aungkung, you can also call me
 ```
       --       _    _    __    __   _____          _____
