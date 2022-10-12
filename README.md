@@ -20,9 +20,7 @@ My name is Aungkung, you can also call me
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: Never gonna give you up!
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=AungS8430&no-bg=false&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="AungS8430"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungS8430&show_icons=true&locale=en&layout=compact&theme=tokyonight " alt="AungS8430" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AungS8430&show_icons=true&locale=en&theme=tokyonight " alt="AungS8430" />
       
