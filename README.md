@@ -21,5 +21,5 @@ My name is Aungkung, you can also call me
 - ⚡ Fun fact: Never gonna give you up!
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=AungS8430&no-bg=true&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="AungS8430" />
-      
-<img align="center" src="https://metrics.lecoq.io/AungS8430?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FBangkok"/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungS8430&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AungS8430" />
+<img align="center" src="https://metrics.lecoq.io/AungS8430?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FBangkok"/>
