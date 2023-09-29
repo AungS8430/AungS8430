@@ -2,10 +2,10 @@
 I'm a   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=200&vCenter=true&width=435&color=1E45F7&height=15&lines=Coder;Web+Developer;Backend+Developer;Freelancer;Designer)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AungS8430&theme=transparent" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=AungS8430&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AungS8430&theme=transparent&langs_count=8&card_width=200&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AungS8430&theme=transparent&langs_count=8&card_width=200&layout=compact" />
 </a>
 
 ## Libraries and frameworks
