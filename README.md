@@ -8,6 +8,9 @@ I'm a   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weig
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AungS8430&theme=transparent&langs_count=8&card_width=200&layout=compact" />
 </a>
 
+Here's my Hackatime stats, I guess
+<img height=150 src="https://github-readme-stats.hackclub.dev/api/wakatime?username=8356&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" />
+
 ## Libraries and frameworks
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![Electron.JS](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)](https://electronjs.org)
