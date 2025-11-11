@@ -2,12 +2,15 @@
 
 ###
 
-<p align="left">Hi there! I'm AungS8430, I'm a web developer currently studying computer engineering at KOSEN-KMITL.</p>
+<p align="center">Hi there! I'm AungS8430, I'm a web developer currently studying computer engineering at KOSEN-KMITL.</p>
 
 ###
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=AungS8430&theme=onedark&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=AungS8430&theme=onedark&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="300" alt="trophy graph"  />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AungS8430&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AungS8430&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img height=150 src="https://github-readme-stats.hackclub.dev/api/wakatime?username=8356&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=onedark" />
@@ -19,7 +22,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -65,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
 </div>
 
-<h2 align="left">Help! Those guys are eating up my commits!</h2>
+<h2 align="center">Help! Those guys are eating up my commits!</h2>
 
 ###
 
