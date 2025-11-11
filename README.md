@@ -1,4 +1,4 @@
-# Hi there 👋 I'm AungS8430!
+<h1 align="center">Hi there 👋 I'm AungS8430!</h1>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Stuff I know, I guess</h2>
+<h2 align="center">Stuff I know, I guess</h2>
 
 ###
 
