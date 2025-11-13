@@ -79,3 +79,5 @@
 </picture>
 
 ###
+
+<h4 align="center">“Simplicity is the soul of efficiency.” – Austin Freeman</h4>
