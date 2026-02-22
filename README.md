@@ -7,13 +7,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=AungS8430&theme=onedark&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="300" alt="trophy graph"  />
+  <img height=300 src="https://trophy.ryglcloud.net/?username=AungS8430&theme=dracula" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AungS8430&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AungS8430&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img height=150 src="https://github-readme-stats.hackclub.dev/api/wakatime?username=8356&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=onedark" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AungS8430&theme=dracula" alt="GitHub Streak" height=150 /></a>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&fontFamily=&preferLogin=false" >    <img  alt="AungS8430's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AungS8430?cardType=level&theme=dracula&fontFamily=&preferLogin=false" height=150 />  </a>
+  <img height=150 src="https://github-readme-stats.hackclub.dev/api/wakatime?username=8356&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dracula" />
 </div>
 
 ###
