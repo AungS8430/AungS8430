@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hi there! I'm AungS8430, I'm a web developer currently studying computer engineering at KOSEN-KMITL.</p>
+<p align="center">Hi there! I'm AungS8430, I'm a developer currently studying engineering at National College of Technology, Kumamoto College</p>
 
 ###
 
